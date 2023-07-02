@@ -1,0 +1,5 @@
+2023-07-02 10:41:23,432 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-UG0RBSJ with PID 11652 (D:\2023_Study\Techfest_2023_learn\remoteservicebase\target\classes started by Yuvan in D:\2023_Study\Techfest_2023_learn\remoteservicebase)
+2023-07-02 10:41:23,438 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2023-07-02 10:41:25,748 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Started RemoteserviceApplication in 2.808 seconds (JVM running for 3.89)
+2023-07-02 10:41:25,750 INFO com.techmania.remoteservice.RemoteserviceApplication [main] ************RemoteserviceApplication ends*******
+2023-07-02 10:41:34,688 INFO com.techmania.remoteservice.controllers.BaseController [http-nio-8080-exec-1] **************BaseController.index**************
